@@ -1,3 +1,7 @@
-theme: jekyll-theme-midnight
-title: Nathan Escobar
-description: IT & Security Leader | CISSP | Exploring Hardware Security & HPC
+plugins:
+  - jekyll-remote-theme
+
+remote_theme: pages-themes/midnight@v0.2.0
+
+title: "Nathan Escobar"
+description: "IT & Security Leader | CISSP | Exploring Hardware Security & HPC"
